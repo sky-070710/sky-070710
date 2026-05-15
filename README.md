@@ -17,11 +17,8 @@
 </div>
 
 ```yaml
-🎓 School    : Soonchunhyang Univ. — Information Security
-🔍 Interests : Web Hacking, Reverse Engineering
-🎯 Goal      : Master the art of security
-💜 Hobbies   : Everything! (I love it all ^^)
-📫 Contact   : skyland070901@naver.com
+🎓 School    : 순천향대 정보보호학과
+🔍 Interests : 웹 해킹, 리버스 엔지니어림
 ```
 
 <br>
