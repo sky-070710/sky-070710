@@ -39,28 +39,35 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Hacking-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Reverse%20Engineering-1F2937?style=for-the-badge&logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTF-7C3AED?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pentesting-DC2626?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-### 🔧 Tools & Learning
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-</p>
+### 🏆 Awards & Certifications
 
-### 📫 Contact
+<table align="center">
+  <thead>
+    <tr>
+      <th>📅 Date</th>
+      <th>🏅 Title</th>
+      <th>📌 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2025.MM</td>
+      <td align="center"><b>대회/자격증 이름</b></td>
+      <td>주최 기관 / 상세 내용</td>
+    </tr>
+    <tr>
+      <td align="center">2025.MM</td>
+      <td align="center"><b>예시: CTF OO상</b></td>
+      <td>OO 주최 — 본선 진출 등</td>
+    </tr>
+  </tbody>
+</table>
 
-<p align="center">
-  <a href="mailto:skyland070901@naver.com">
-    <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-  </a>
-</p>
-
+---
 ---
 
 📫 **Contact me:** your.email@example.com
