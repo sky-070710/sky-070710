@@ -5,12 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=Hello+I+am+sky-070710;Welcome+to+my+GitHub;Always+learning+new+things" alt="Typing SVG" />
 </p>
-
-<!-- 배경 이미지 (밤하늘) -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800" width="80%" alt="banner"/>
-</p>
-
 ---
 
 ## 🌙 About Me
