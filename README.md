@@ -18,7 +18,7 @@
 
 ```yaml
 🎓 School    : 순천향대 정보보호학과
-🔍 Interests : 웹 해킹, 리버스 엔지니어림
+🔍 Interests : 웹 해킹, 리버스 엔지니어링
 ```
 
 <br>
