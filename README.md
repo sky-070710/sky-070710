@@ -1,8 +1,10 @@
+<!-- 상단 그라데이션 웨이브 배너 (색이 부드럽게 움직임) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=sky-070710's%20space&descAlignY=58&descSize=18)
+
 <!-- 타이핑 애니메이션 (글자가 실시간으로 타이핑됨) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://github.com/user-attachments/assets/b211c32c-5228-4f91-ac88-732aefb38880" width="1000" height="800" alt="배경 이미지" />
-" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+sky-070710!;Welcome+to+my+GitHub+✨;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,17 +42,3 @@
 
 <!-- 하단 웨이브 (상단과 대칭) -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=footer)
-<!--
-**sky-070710/sky-070710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
