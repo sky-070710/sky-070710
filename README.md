@@ -44,14 +44,13 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2025.MM</td>
-      <td align="center"><b>대회/자격증 이름</b></td>
-      <td>주최 기관 / 상세 내용</td>
+      <td align="center">2025.06.27 ~ 2025.10.25</td>
+      <td align="center"><b>2025 고교생 현대 오토에버 IT 꿈나무 성장지원사업 화이트해커 양성교육 수료 </b></td>
     </tr>
     <tr>
-      <td align="center">2025.MM</td>
-      <td align="center"><b>예시: CTF OO상</b></td>
-      <td>OO 주최 — 본선 진출 등</td>
+      <td align="center">2025.10.25</td>
+      <td align="center"><b>고교생 현대 오토에버 IT 꿈나무 성장지원사업 화이트해커 경진대회 </b></td>
+      <td>입상 / 특별상 수여</td>
     </tr>
   </tbody>
 </table>
