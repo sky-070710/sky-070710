@@ -1,14 +1,12 @@
-<!-- 상단 그라데이션 웨이브 배너 (색이 부드럽게 움직임) -->
+<!-- 상단 그라데이션 웨이브 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=sky-070710's%20space&descAlignY=58&descSize=18)
 
-<!-- 타이핑 애니메이션 (글자가 실시간으로 타이핑됨) -->
+<!-- 타이핑 애니메이션 -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=Hello+I+am+sky-070710;Welcome+to+my+GitHub;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
-
-<!-- 배경 이미지 (Unsplash 사용 예시 - 원하는 이미지 URL로 교체) -->
+<!-- 배경 이미지 (밤하늘) -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800" width="80%" alt="banner"/>
 </p>
@@ -23,22 +21,22 @@
 
 ---
 
-### 📊 GitHub Stats (실시간 갱신)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sky-070710&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky-070710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
-<!-- 트로피 (커밋/PR/이슈 따라 자동 업데이트) -->
+<!-- 트로피 -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sky-070710&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<!-- 방문자 카운터 (실시간 +1) -->
+<!-- 방문자 카운터 -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sky-070710.sky-070710&left_color=gray&right_color=blue" />
 </p>
 
-<!-- 하단 웨이브 (상단과 대칭) -->
+<!-- 하단 웨이브 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=footer)
