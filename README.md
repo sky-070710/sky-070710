@@ -1,7 +1,3 @@
-## Hi there 👋
-<!-- 상단 그라데이션 웨이브 배너 (색이 부드럽게 움직임) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=sky-070710's%20space&descAlignY=58&descSize=18)
-
 <!-- 타이핑 애니메이션 (글자가 실시간으로 타이핑됨) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
