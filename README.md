@@ -1,7 +1,7 @@
 <!-- 타이핑 애니메이션 (글자가 실시간으로 타이핑됨) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://github.com/user-attachments/assets/b211c32c-5228-4f91-ac88-732aefb38880" width="700" height="800" alt="배경 이미지" />
+    <img src="https://github.com/user-attachments/assets/b211c32c-5228-4f91-ac88-732aefb38880" width="1000" height="800" alt="배경 이미지" />
 " />
   </a>
 </p>
