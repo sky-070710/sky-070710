@@ -58,7 +58,7 @@
 ---
 ---
 
-📫 **Contact me:** skyland070901@naver.com
+📫 **My Email** skyland070901@naver.com
 ---
 
 ### 📊 GitHub Stats
