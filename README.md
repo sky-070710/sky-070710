@@ -13,12 +13,57 @@
 
 ---
 
-### ✨ About Me
+## 🌙 About Me
 
-- 🌱 현재 배우는 것: 
-- 💻 관심사: 
-- 📫 연락처: 
+<div align="center">
 
+✨ *Hello, hacker!* ✨
+
+밤하늘을 좋아하는 **보안 새내기** 이하늘 입니다 🔐  
+*"코드 너머의 취약점을 찾는 사람"*
+
+</div>
+
+```yaml
+🎓 School    : Soonchunhyang Univ. — Information Security
+🔍 Interests : Web Hacking, Reverse Engineering
+🎯 Goal      : Master the art of security
+💜 Hobbies   : Everything! (I love it all ^^)
+📫 Contact   : skyland070901@naver.com
+```
+
+<br>
+
+### 🛡️ Fields of Interest
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Hacking-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-1F2937?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF-7C3AED?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentesting-DC2626?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+### 🔧 Tools & Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
+
+### 📫 Contact
+
+<p align="center">
+  <a href="mailto:skyland070901@naver.com">
+    <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+</p>
+
+---
+
+📫 **Contact me:** your.email@example.com
 ---
 
 ### 📊 GitHub Stats
