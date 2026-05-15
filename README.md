@@ -5,7 +5,8 @@
 <!-- 타이핑 애니메이션 (글자가 실시간으로 타이핑됨) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNGgWdxSomiJtvPFXyeuLzNjuawtKlbvwGA&s" alt="Typing SVG" />
+    <img src="<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/a9fb437b-9a1b-4a75-8df5-e04e67a7b598" />
+" alt="Typing SVG" />
   </a>
 </p>
 
