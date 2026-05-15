@@ -83,4 +83,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sky-070710.sky-070710&left_color=gray&right_color=blue" alt="visitor badge" />
 </p>
 <!-- 하단 웨이브 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=footer&reversal=true" alt="footer" />
+</p>
