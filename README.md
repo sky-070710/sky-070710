@@ -1,5 +1,7 @@
 <!-- 상단 그라데이션 웨이브 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=sky-070710's%20space&descAlignY=58&descSize=18)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=sky-070710's%20space&descAlignY=58&descSize=18" alt="header" />
+</p>
 
 <!-- 타이핑 애니메이션 -->
 <p align="center">
