@@ -10,8 +10,6 @@
 
 <div align="center">
 
-✨ *Hello, hacker!* ✨
-
 **보안 새내기**
 
 </div>
