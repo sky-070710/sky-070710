@@ -50,7 +50,21 @@
     <tr>
       <td align="center">2025.10.25</td>
       <td align="center"><b>고교생 현대 오토에버 IT 꿈나무 성장지원사업 화이트해커 경진대회 </b></td>
-      <td>입상 / 특별상 수여</td>
+      <td>입상 / 특별상 수여(root)</td>
+    </tr>
+    <tr>
+      <td align="center">2026.03.09</td>
+      <td align="center"><b> 순천향대학교 학술동아리 SecurityFirst 가입 </b></td>
+    </tr>
+    <tr>
+      <td align="center">2026.05.30 ~ 2026.06.01</td>
+      <td align="center"><b> 2026 THEM?!CTF 참가 </b>4등(SCH_TUTORING)</td>
+      <td>4등(SCH_TUTORING)</td>
+    </tr>
+    <tr>
+      <td align="center">2026.06.07</td>
+      <td align="center"><b> HSPACE HyperSonicCTF 참가</b></td>
+      <td>8등(SecurityFirst)</td>
     </tr>
   </tbody>
 </table>
