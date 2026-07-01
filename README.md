@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <td align="center">2026.05.30 ~ 2026.06.01</td>
-      <td align="center"><b> 2026 THEM?!CTF 참가 </b>4등(SCH_TUTORING)</td>
+      <td align="center"><b> 2026 THEM?!CTF 참가 </b></td>
       <td>4등(SCH_TUTORING)</td>
     </tr>
     <tr>
